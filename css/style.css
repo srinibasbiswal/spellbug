@@ -1,0 +1,13 @@
+* {
+    text-align: center;
+}
+
+h3, p {
+    padding-bottom: 75px;
+}
+
+textarea {
+    width: 60%;
+    height: 200px;
+    text-align: left;
+}
